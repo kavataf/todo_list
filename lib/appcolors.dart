@@ -1,0 +1,20 @@
+import 'dart:ui';
+
+final Color backGround = Color(0xFFDFE9ED);
+final Color backGround2 = Color(0xFFE8F1F3);
+final Color buttonColor = Color(0xFFB9B1E1);
+final Color buttonColor2 = Color(0xFF9DBDB2);
+final Color appBar = Color(0xFFB5B3DA);
+final Color appBar2 = Color(0xFFA5BAC1);
+final Color pinnedTask1 = Color(0xFFDAE0F5);
+final Color pinnedTask2 = Color(0xFFEAE0FF);
+final Color activeDate = Color(0xFFD4E7FE);
+final Color inactiveDate = Color(0xFFF1F1F1);
+final Color homeBackground = Color(0xFFFFFFFF);
+final Color task1 = Color(0xFFF5EFE8);
+final Color task2 = Color(0xFFEAEAEC);
+final Color task3 = Color(0xFFFFEEFB);
+final Color taskBorder = Color(0xFF506A84);
+final Color timeBackground = Color(0xFFF5EFE8);
+final Color activity = Color(0xFFF2F2F2);
+final Color taskBackground = Color(0xFFDAE0F5);

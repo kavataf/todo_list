@@ -1,0 +1,25 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+# Android / Gradle files
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Generated files
+*.iml
+captures/
+output.json
+
+# OS-specific files
+Thumbs.db
