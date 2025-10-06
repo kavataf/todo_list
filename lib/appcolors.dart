@@ -18,3 +18,5 @@ final Color taskBorder = Color(0xFF506A84);
 final Color timeBackground = Color(0xFFF5EFE8);
 final Color activity = Color(0xFFF2F2F2);
 final Color taskBackground = Color(0xFFDAE0F5);
+final Color handColor = Color(0xFFf9ed7f);
+final Color profileColor = Color(0xFFffdf5b);
